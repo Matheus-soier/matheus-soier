@@ -28,6 +28,10 @@
 -->
 <br>
 
+<div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-soier&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## 	&#x1F4F2; Contact
 
 <p align="left" style="background:yellow">
