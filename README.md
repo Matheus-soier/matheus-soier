@@ -38,7 +38,7 @@
 <!--   <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-eusoier-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a> -->
- <a href="https://www.linkedin.com/in/matheus-sampaio-soier-bb27a6284/" target="_blank">
+ <a href="https://www.linkedin.com/in/matheus-soier-bb27a6284/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/eusoier" target="_blank">
