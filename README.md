@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Matheus-soier/862d5ef8fdc16929d085ac2548582878/raw/0a7a3343dcaeab33cb99485e784e6bda22b55064/githubcard.svg"/>
-
 <h1 align="left">Hi 👋, I'm Matheus Soier</h1>
 
 <p align="left">
