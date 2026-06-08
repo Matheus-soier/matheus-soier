@@ -51,17 +51,20 @@
 
 <br>
 
-<div>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-soier&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Matheus-soier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-soier&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-soier&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img height="178em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheus-soier&theme=github_dark" alt="GitHub stats" />&nbsp;
+  <img height="178em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-soier&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img height="178em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheus-soier&theme=github_dark" alt="Most used languages" />&nbsp;
+  <img height="178em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheus-soier&theme=github_dark&utcOffset=-3" alt="Productive time" />
 </p>
 
 <br>
